@@ -4,12 +4,12 @@
 #### Web Developer
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+##### I love my work
 
-✅ REACT
-✅ JavaScript 
-✅ HTML
-✅ CSS / Bootstrap
+✅ REACT 
+✅ JavaScript  
+✅ HTML 
+✅ CSS / Bootstrap 
 
 - 💼 I’m currently working on Fiverr 
 - 🐱‍👤 I’m currently learning Node.js 
