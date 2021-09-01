@@ -6,10 +6,10 @@
 
 ##### I love my work
 
-✅ REACT 
-✅ JavaScript  
-✅ HTML 
-✅ CSS / Bootstrap 
+✅ REACT     
+✅ JavaScript      
+✅ HTML    
+✅ CSS / Bootstrap     
 
 - 💼 I’m currently working on Fiverr 
 - 🐱‍👤 I’m currently learning Node.js 
