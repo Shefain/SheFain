@@ -4,7 +4,9 @@
 #### Web Developer
 
 
-##### I love my work
+#### I love my work
+
+#### MY Skills
 
 ✅ REACT     
 ✅ JavaScript      
