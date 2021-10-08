@@ -1,6 +1,5 @@
 
 ![Web Developer](https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg)
-<a href='https://www.freepik.com/vectors/digital'>Digital vector created by freepik - www.freepik.com</a>
 ### I'm SheFain
 #### Web Developer
 
