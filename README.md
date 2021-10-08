@@ -8,7 +8,7 @@
 
 #### MY Skills
 
-✅ REACT     
+✅ REACT.js     
 ✅ JavaScript      
 ✅ HTML    
 ✅ CSS / Bootstrap     
